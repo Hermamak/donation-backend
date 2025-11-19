@@ -1,0 +1,10 @@
+# Ignore the heavy dependency folder
+node_modules/
+
+# Ignore your secrets
+.env
+
+# Ignore system files and logs
+.DS_Store
+npm-debug.log
+yarn-error.log
